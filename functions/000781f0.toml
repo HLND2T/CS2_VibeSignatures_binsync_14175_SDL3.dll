@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:54:39.688957Z
+addr = 0x781f0
+size = 0x2bd
+name = "SDL_QuitMouse"
+type = "long long"
+
+[header]
+name = "SDL_QuitMouse"
+addr = 0x781f0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-15T07:54:39.688952Z
+addr = 0x776a0
+size = 0xd5
+name = "SDL_PerformWarpMouseInWindow"
+type = "float *"
+
+[header]
+name = "SDL_PerformWarpMouseInWindow"
+addr = 0x776a0
+type = "float *"
+
+[header.args]
