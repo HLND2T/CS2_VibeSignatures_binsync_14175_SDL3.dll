@@ -1,12 +1,12 @@
-last_change = 2026-08-15T07:54:39.688947Z
+last_change = 2026-08-16T09:28:55.851248Z
 addr = 0x77640
 size = 0x39
 name = "SDL_MouseWarpEmulationChanged"
-type = "long long"
+type = "char"
 
 [header]
 name = "SDL_MouseWarpEmulationChanged"
 addr = 0x77640
-type = "long long"
+type = "char"
 
 [header.args]
